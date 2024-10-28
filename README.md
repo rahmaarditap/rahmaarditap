@@ -1,2 +1,2 @@
 ## Hi there 👋
-[![Leetcode Stats](https://leetcard.jacoblin.cool/RahmaArdita?ext=activity)](https://leetcode.com/rahmaarditap)
+[![Leetcode Stats](https://leetcard.jacoblin.cool/RahmaArdita)](https://leetcode.com/rahmaarditap)
